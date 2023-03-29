@@ -7,9 +7,7 @@
 
 body {
     background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
     
-}
-.container {
-    width: 350px;
-    margin: 50px auto;
 }
